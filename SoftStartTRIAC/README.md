@@ -34,7 +34,7 @@ void handleZeroCross() {
 
 ## Autor
 
-Desarrollado por Felix con ayuda de ChatGPT. Para uso en sistemas solares, acuapónicos o industriales.
+Desarrollado por Felix Ramirez con ayuda de ChatGPT. Para uso en sistemas solares, acuapónicos o industriales.
 
 ---
 
